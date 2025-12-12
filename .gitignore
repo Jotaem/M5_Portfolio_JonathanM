@@ -1,0 +1,16 @@
+# Entornos Virtuales
+venv/
+env/
+.venv/
+.env/
+
+# Archivos de configuración de IDE/Editor
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivo de repositorio
+Link_repositorio.txt
